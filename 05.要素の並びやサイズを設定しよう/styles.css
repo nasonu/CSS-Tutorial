@@ -1,12 +1,28 @@
+/* todayクラスに適用するスタイル */
+.today{
+  font-size: 20px;
+}
+/* temperatureクラスに適用するスタイル */
+.temperature{
+  background-color: #ffd8b2;
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+}
+span{
+  background-color: #ffc0cb;
+  display: inline-block;
+  height: 28px;
+}
+/* humidityクラスに適用するスタイル */
 .humidity {
   margin-left: 30px;
+  background-color: #add8e6;
+  display: inline-block;
+  width: 40px;
+  height: 20px;
 }
-
-
-/* todayクラスに適用するスタイル */
-
-/* temperatureクラスに適用するスタイル */
-
-/* humidityクラスに適用するスタイル */
-
 /* img要素に適用するスタイル */
+img{
+  display: block;
+}
